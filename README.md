@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
-- 📄 Know about my experiences: [brianaldavis.github.io](brianaldavis.github.io)
+- 📄 My Website: [brianaldavis.github.io](http://brianaldavis.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
