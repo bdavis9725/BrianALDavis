@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a Python based Recommendation System.**
 
-- 🌱 I’m currently learning: **PostgreSQL, Hadoop and Tableau alongside refreshing my memory of the R software package.**
+- 🌱 I’m currently learning: **PostgreSQL, Hadoop and Tableau.**
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
