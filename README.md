@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop and Tableau alongside refreshing my memory of the R software package.**
 
-- 👨‍💻 All of my projects are available at: [www.github.com/BrianALDavis](www.github.com/BrianALDavis)
-
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
 - 📄 My Website: [brianaldavis.github.io](http://brianaldavis.github.io)
