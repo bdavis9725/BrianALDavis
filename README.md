@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Data Science, Software Development</h3>
 
-- 🔭 I’m currently working on: **a Python based Recommendation System.**
+- 🔭 I’m currently working on: **a Python based Music Recommendation System.**
 
-- 🌱 I’m currently learning: **PostgreSQL, Hadoop and Tableau.**
+- 🌱 I’m currently learning: **Python OOP, PostgreSQL, Hadoop and Tableau.**
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
