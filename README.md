@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **a Python based Music Recommendation System.**
 
-- 🌱 I’m currently learning: **Python OOP, PostgreSQL, Hadoop and Tableau.**
+- 🌱 I’m currently learning: PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
