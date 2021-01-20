@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Data Science, Software Development</h3>
 
-- 🔭 I’m currently working on: **a Python based Music Recommendation System.**
+- 🔭 I’m currently working on: **a Data Project for my Masters.**
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
