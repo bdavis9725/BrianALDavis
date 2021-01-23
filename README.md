@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">Data Science, Software Development</h3>
 
-- 🔭 I’m currently working on: **a Data Project for my Masters.**
+- 🔭 I’m currently working on: **An Advanced Data Management Project using R, and a personal Stock Market Analysis project in Python.**
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
@@ -13,14 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianaldavis&" alt="brianaldavis" /></p>
 
-<!--
-**BrianALDavis/BrianALDavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
