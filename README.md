@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on:  
   * **An Advanced Data Management Project using R**
-  * **A personal Stock Market Analysis project in Python.**
+  * **A personal Stock Market Analysis project in Python**
+  * **Currently exploring topics for Masters level Dissertation**
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
