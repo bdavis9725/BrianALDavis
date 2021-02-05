@@ -5,7 +5,7 @@
   * **An Advanced Data Management Project using R**
   * **A personal Stock Market Analysis project in Python**
   * **A side project working on Music Tagging using Machine Learning**
-  * **Exploration of topics for my Masters level Dissertation**
+  * **The Literature Review for my Masters Dissertation on Machine Translation**
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
