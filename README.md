@@ -2,8 +2,7 @@
 <h3 align="center">Data Science, Software Development</h3>
 
 - 🔭 I’m currently working on:  
-  * **An Advanced Data Management Project using R, Hadoop and Data Integration tools**
-  * **The Literature Review for my Masters Dissertation**
+  * **Masters Level Dissertation into Machine Translation**
 
 - 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
 
