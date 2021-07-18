@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">Data Science, Software Development</h3>
+<h3 align="center"> <- Data Science | Software Development | Software Engineering -></h3>
 
-- 🔭 I’m currently working on:  
-  * **Masters Level Dissertation into Machine Translation**
+- :necktie: I'm currently working as:
+  * **Data Engineer @ Artefact Global
 
-- 🌱 I’m currently learning: **PostgreSQL, Hadoop, Apache Spark and Tableau.**
+- :desktop_computer: I’m currently working on:  
+  * **Masters Level Thesis: Neural Machine Translation EN->ZH**
+
+- 🌱 I’m currently learning: **PostgreSQL, Google Cloud Platform, Apache Airflow, Berlioz API and further Cloud Tech.**
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
