@@ -2,7 +2,7 @@
 <h3 align="center"> <- Data Science | Software Development | Software Engineering -></h3>
 
 - :necktie: I'm currently working as:
-  * **Data Engineer @ Artefact Global
+  * **Data Engineer @ Artefact Global**
 
 - :desktop_computer: I’m currently working on:  
   * **Masters Level Thesis: Neural Machine Translation EN->ZH**
