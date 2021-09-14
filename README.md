@@ -5,7 +5,7 @@
   * **Data Engineer @ Artefact Global**
 
 - :desktop_computer: I’m currently working on:  
-  * **Masters Level Thesis: Neural Machine Translation EN->ZH**
+  * **To Be Added Later**
 
 - 🌱 I’m currently learning: **PostgreSQL, Google Cloud Platform, Apache Airflow, Berlioz API and further Cloud Tech.**
 
