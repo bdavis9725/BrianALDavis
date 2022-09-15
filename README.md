@@ -13,7 +13,7 @@
 
 - 📄 My Website: [brianaldavis.github.io](http://brianaldavis.github.io)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brianaldavis&show_icons=true&locale=en" alt="brianaldavis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdavis9725&show_icons=true&locale=en" alt="bdavis9725" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brianaldavis&" alt="brianaldavis" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bdavis9725&" alt="bdavis9725" /></p>
 
