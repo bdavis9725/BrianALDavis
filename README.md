@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
-- 📄 My Website: [brianaldavis.github.io](http://brianaldavis.github.io)
+- 📄 My Website: [bdavis9725.github.io](http://bdavis9725.github.io)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bdavis9725&show_icons=true&locale=en" alt="bdavis9725" /></p>
 
