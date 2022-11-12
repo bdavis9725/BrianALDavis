@@ -5,9 +5,16 @@
   * **Data Engineer @ Artefact Global**
 
 - :desktop_computer: I’m currently working on:  
-  * **To Be Added Later**
+  * Infrastructure Deployment Automation
+  * CI/CD Best Practices
+  * Data Collection and Management to Scale with DBT
 
-- 🌱 I’m currently learning: **PostgreSQL, Google Cloud Platform, Apache Airflow, Berlioz API and further Cloud Tech.**
+- 🌱 I’m currently learning: 
+   * Google Cloud Platform Professional Certification
+   * Treasure Data CDP
+   * Advanced Terraform
+   * Advanced DBT
+   * Networking Fundamentals
 
 - 📫 How to reach me: **briandavis9066@gmail.com**
 
