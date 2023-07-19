@@ -8,7 +8,7 @@
   * Infrastructure Deployment Automation
   * CI/CD Best Practices
   * Data Collection and Management to Scale with DBT
-  * Data Governace Utilising Data Policy Tagging
+  * Data Governance Utilising Data Policy Tagging
 
 - 🌱 I’m currently learning: 
    * Google Cloud Platform Professional Certification
